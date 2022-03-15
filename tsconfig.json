@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es3", /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "watch": true,
+    "lib": [
+      "dom",
+      "es2017"
+    ]
+  }
+}
